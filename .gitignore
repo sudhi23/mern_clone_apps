@@ -1,4 +1,10 @@
 *node_modules
+*.json
+socketio_realtimechat
+netflix_clone
+pwa_react
+spotify_clone
+whatsapp_clone
 covid_tracker
 crud
 electron_shopping
